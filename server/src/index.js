@@ -4,7 +4,12 @@ import { createAuth } from './auth.js'
 import { createForum } from './forum.js'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import musicQuestions from '../../client/src/imported-bank.json' with { type: 'json' }
+import intervals from '../../client/src/banks/interval.json' with { type: 'json' }
+import chords from '../../client/src/banks/chord.json' with { type: 'json' }
+import modes from '../../client/src/banks/mode.json' with { type: 'json' }
+import rhythms from '../../client/src/banks/rhythm.json' with { type: 'json' }
+import notation from '../../client/src/banks/notation.json' with { type: 'json' }
+const musicQuestions = [...intervals, ...chords, ...modes, ...rhythms, ...notation]
 
 const app = express()
 const port = Number(process.env.PORT || 3000)

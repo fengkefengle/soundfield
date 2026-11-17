@@ -1,5 +1,10 @@
 import importedQuestions from './imported-bank.json'
-export const questions = importedQuestions
+import intervals from './banks/interval.json'
+import chords from './banks/chord.json'
+import modes from './banks/mode.json'
+import rhythms from './banks/rhythm.json'
+import notation from './banks/notation.json'
+export const questions = [...intervals, ...chords, ...modes, ...rhythms, ...notation]
 export const categories = [
   { id: 'interval', name: '音程', en: 'INTERVALS', icon: '↗', description: '听见两个音之间的距离', color: '#a9cdef' },
   { id: 'chord', name: '和弦', en: 'CHORDS', icon: '♬', description: '理解和声的色彩与结构', color: '#e6b6d0' },
@@ -7,7 +12,7 @@ export const categories = [
   { id: 'rhythm', name: '节奏', en: 'RHYTHM', icon: '𝄽', description: '让每一拍都落在对的位置', color: '#a7cfdf' },
   { id: 'notation', name: '记谱法', en: 'NOTATION', icon: '♮', description: '读懂谱面上的音乐语言', color: '#edc1d4' }
 ]
-export const legacyQuestions = [
+export const legacyQuestions = [...importedQuestions,
   { id: 1, category: 'interval', stem: '从 C 向上到同一八度内的 E，构成什么音程？', options: ['小三度', '大三度', '纯四度', '纯五度'], answer: 1, explanation: 'C–D–E 包含三个音级，C 到 E 相距四个半音，因此是大三度。小三度则相距三个半音，例如 C 到 E♭。', tip: '先数音级判断度数，再数半音判断性质。', notes: ['C', 'E'] },
   { id: 2, category: 'interval', stem: '纯五度包含多少个半音？', options: ['5 个', '6 个', '7 个', '8 个'], answer: 2, explanation: '纯五度包含七个半音。以 C 到 G 为例，音级跨度为五度，半音距离为七。', tip: '纯四度五个半音，纯五度七个半音。', notes: ['C', 'G'] },
   { id: 3, category: 'interval', stem: '从 D 向上到 F，构成什么音程？', options: ['大二度', '小三度', '大三度', '纯四度'], answer: 1, explanation: 'D–E–F 是三个音级，D 到 F 相距三个半音，因此是小三度。', tip: '大三度四个半音，小三度三个半音。', notes: ['D', 'F'] },
