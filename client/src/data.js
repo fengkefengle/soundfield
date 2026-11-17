@@ -20,10 +20,3 @@ export const legacyQuestions = [
   { id: 10, category: 'notation', stem: '升号（♯）对一个自然音的作用是？', options: ['降低半音', '升高半音', '升高全音', '恢复原音高'], answer: 1, explanation: '升号将该音升高半音，降号降低半音，还原号取消此前相关的升降变化。', tip: 'C♯ 比 C 高一个半音。', notes: ['C', 'C♯'] },
   { id: 11, category: 'notation', stem: '高音谱号标记的第二线是什么音？', options: ['C4', 'E4', 'G4', 'A4'], answer: 2, explanation: '高音谱号也叫 G 谱号，符号中心环绕第二线，表示该线是 G4。', tip: '高音谱表五条线从下向上为 E、G、B、D、F。', notes: ['G'] }
 ]
-export const demoRanks = [
-  { name: '阿哲 / 吉他', instrument: '独立摇滚 · 吉他', rate: '96.8', total: 312, initial: '哲', color: '#b7ce89' },
-  { name: '小鹿的低音', instrument: 'Funk · 贝斯', rate: '94.2', total: 208, initial: '鹿', color: '#c5afe5' },
-  { name: '鼓手不打烊', instrument: 'Fusion · 鼓', rate: '92.6', total: 186, initial: '鼓', color: '#d8b57b' },
-  { name: '海边的键盘', instrument: 'City Pop · 键盘', rate: '90.1', total: 152, initial: '海', color: '#8cb8c5' },
-  { name: '周末排练中', instrument: 'Blues · 吉他', rate: '87.5', total: 120, initial: '周', color: '#d7a1b3' }
-]

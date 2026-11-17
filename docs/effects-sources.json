@@ -1,0 +1,518 @@
+[
+  {
+    "url": "https://www.boss.info/global/products/bd-2/",
+    "title": "BOSS - BD-2 | Blues Driver",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/sd-1/",
+    "title": "BOSS - SD-1 | SUPER OverDrive",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.ibanez.com/usa/products/detail/ts9_99.html",
+    "title": "TS9 | TUBE SCREAMER | EFFECTS | PRODUCTS | Ibanez guitars | USA",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://nuxaudio.com/product/horseman/",
+    "title": "Horseman - NUX Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.ehx.com/products/soul-food/",
+    "title": "Soul Food  | Transparent Overdrive | New Low Price! - Electro-Harmonix",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/4.html",
+    "title": "R-01 TAUREN_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/5.html",
+    "title": "R-02 TAICHI_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.mooeraudio.com/product/Green-Mile--153.html",
+    "title": "Green Mile_MOOER Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jimdunlop.com/mxr-micro-amp/",
+    "title": "MXR® MICRO AMP - Dunlop",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/ds-1/",
+    "title": "BOSS - DS-1 | Distortion",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/mt-2/",
+    "title": "BOSS - MT-2 | Metal Zone",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/6.html",
+    "title": "R-03 UZI_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://nuxaudio.com/product/plexi-crunch/",
+    "title": "Plexi Crunch - NUX Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://nuxaudio.com/product/metal-core-deluxe-mkii/",
+    "title": "Metal Core Deluxe MKII - NUX Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jimdunlop.com/mxr-distortion/",
+    "title": "MXR® DISTORTION+ - Dunlop",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.ehx.com/products/big-muff-pi/",
+    "title": "Big Muff Pi  | Fuzz / Distortion / Sustainer - Electro-Harmonix",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/fz-1w/",
+    "title": "BOSS - FZ-1W | Fuzz",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jimdunlop.com/jimi-hendrix-fuzz-face-mini-distortion/",
+    "title": "JIMI HENDRIX® FUZZ FACE® MINI DISTORTION - Dunlop",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/cs-3/",
+    "title": "BOSS - CS-3 | Compression Sustainer",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/cp-1x/",
+    "title": "BOSS - CP-1X | Compressor",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jimdunlop.com/mxr-dyna-comp-compressor/",
+    "title": "MXR® DYNA COMP® COMPRESSOR - Dunlop",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.mooeraudio.com/product/Yellow-Comp--118.html",
+    "title": "Yellow Comp_MOOER Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.wamplerpedals.com/products/compression/ego-compressor/",
+    "title": "Ego Compressor | Wampler Pedals",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jimdunlop.com/mxr-bass-compressor/",
+    "title": "MXR® BASS COMPRESSOR - Dunlop",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/bc-1x/",
+    "title": "BOSS - BC-1X | Bass Comp",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/ge-7/",
+    "title": "BOSS - GE-7 | Equalizer",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jimdunlop.com/mxr-six-band-eq/",
+    "title": "MXR® SIX BAND EQ - Dunlop",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/geb-7/",
+    "title": "BOSS - GEB-7 | Bass Equalizer",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/ns-2/",
+    "title": "BOSS - NS-2 | Noise Suppressor",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/ns-1x/",
+    "title": "BOSS - NS-1X | Noise Suppressor",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/ch-1/",
+    "title": "BOSS - CH-1 | SUPER Chorus",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/ce-2w/",
+    "title": "BOSS - CE-2W | Chorus",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.ehx.com/products/small-clone/",
+    "title": "Small Clone  | Analog Chorus - Electro-Harmonix",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jimdunlop.com/mxr-analog-chorus/",
+    "title": "MXR® ANALOG CHORUS - Dunlop",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jimdunlop.com/mxr-phase-90/",
+    "title": "MXR® PHASE 90 - Dunlop",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/ph-3/",
+    "title": "BOSS - PH-3 | Phase Shifter",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/bf-3/",
+    "title": "BOSS - BF-3 | Flanger",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/tr-2/",
+    "title": "BOSS - TR-2 | Tremolo",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/12.html",
+    "title": "R-09 VISION_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/dd-8/",
+    "title": "BOSS - DD-8 | Digital Delay",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/re-2/",
+    "title": "BOSS - RE-2 | Space Echo",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jimdunlop.com/mxr-carbon-copy-analog-delay/",
+    "title": "MXR® CARBON COPY® ANALOG DELAY - Dunlop",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.ehx.com/products/memory-toy/",
+    "title": "Memory Toy  | Analog Delay With Modulation - Electro-Harmonix",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.strymon.net/product/timeline/",
+    "title": "TimeLine Multi Delay - Strymon",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.strymon.net/product/elcapistan/",
+    "title": "El Capistan V2 Tape Delay - Strymon",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/10.html",
+    "title": "R-07 AQUARIUS_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/18.html",
+    "title": "JF-304 Time Magic_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/rv-6/",
+    "title": "BOSS - RV-6 | Reverb",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.ehx.com/products/holy-grail-nano/",
+    "title": "Holy Grail Nano  | Reverb - Electro-Harmonix",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.strymon.net/product/bigsky/",
+    "title": "BigSky Multi Reverb - Strymon",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.strymon.net/product/flint/",
+    "title": "Flint V2 Tremolo &amp; Reverb - Strymon",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/31.html",
+    "title": "JF-317 Space Verb_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://nuxaudio.com/product/atlantic/",
+    "title": "Atlantic - NUX Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jimdunlop.com/cry-baby-standard-wah/",
+    "title": "CRY BABY® STANDARD WAH - Dunlop",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/aw-3/",
+    "title": "BOSS - AW-3 | Dynamic Wah",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/36.html",
+    "title": "JF-322 Wow Wah_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/oc-5/",
+    "title": "BOSS - OC-5 | Octave",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/ps-6/",
+    "title": "BOSS - PS-6 | Harmonist",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.ehx.com/products/nano-pog/",
+    "title": "Nano POG  | Polyphonic Octave Generator - Electro-Harmonix",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://digitech.com/dp/whammy/",
+    "title": "Whammy - DigiTech",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/14.html",
+    "title": "R-13 XVI_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/rc-1/",
+    "title": "BOSS - RC-1 | Loop Station",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/rc-5/",
+    "title": "BOSS - RC-5 | Loop Station",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://nuxaudio.com/product/loop-core-deluxe/",
+    "title": "Loop Core Deluxe - NUX Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/9.html",
+    "title": "R-06 O.M.B_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/ir-2/",
+    "title": "BOSS - IR-2 | Amp &amp; Cabinet",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.strymon.net/product/iridium/",
+    "title": "Iridium Amp Modeler And Cab - Strymon",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.joyoaudio.com/product/11.html",
+    "title": "R-08 CAB BOX_JOYO",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/odb-3/",
+    "title": "BOSS - ODB-3 | Bass OverDrive",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/bb-1x/",
+    "title": "BOSS - BB-1X | Bass Driver",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/ad-2/",
+    "title": "BOSS - AD-2 | Acoustic Preamp",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://nuxaudio.com/product/mg-400/",
+    "title": "MG-400 - NUX Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://nuxaudio.com/product/mg-30/",
+    "title": "MG-30 - NUX Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/me-90/",
+    "title": "BOSS - ME-90 | Guitar Multiple Effects",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/gx-100/",
+    "title": "BOSS - GX-100 | Guitar Effects Processor",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://line6.com/hx-stomp/",
+    "title": "Line 6 | HX Stomp | Amp &amp; Effects Processor",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://zoomcorp.com/en/us/multi-effects/guitar-effects/g1-four-g1x-four/",
+    "title": "G1 Four / G1x Four | Buy Now | ZOOM",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://zoomcorp.com/en/us/multi-effects/bass-effects/b1-four-b1x-four/",
+    "title": "B1 Four / B1xFour | Buy Now | ZOOM",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.mooeraudio.com/product/GE150-228.html",
+    "title": "GE150_MOOER Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.mooeraudio.com/product/GE200--48.html",
+    "title": "GE200_MOOER Audio",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.boss.info/global/products/tu-3/",
+    "title": "BOSS - TU-3 | Chromatic Tuner",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://articles.boss.info/the-ultimate-guide-to-guitar-effects-pedal-order-and-signal-chain/",
+    "title": "The Ultimate Guide to Guitar Effects Pedal Order and Signal Chain - BOSS Articles",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.strymon.net/setting-up-your-effect-signal-chain/",
+    "title": "Setting Up Your Effect Signal Chain - Strymon",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://articles.boss.info/order-of-operation-a-guide-to-bass-effects-signal-chain/",
+    "title": "Order of Operation: A Guide to Bass Effects Signal Chain - BOSS Articles",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://articles.boss.info/the-complete-guide-to-acoustic-guitar-effects-pedals-and-signal-chain/",
+    "title": "The Complete Guide to Acoustic Guitar Effects Pedals and Signal Chain   - BOSS Articles",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.strymon.net/product/ojai/",
+    "title": "Ojai Compact Pedal Power Supply - Strymon",
+    "status": 200,
+    "checkedAt": "2026-11-17"
+  }
+]

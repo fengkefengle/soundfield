@@ -1,6 +1,7 @@
 import 'dotenv/config'
 import express from 'express'
 import { createAuth } from './auth.js'
+import { createForum } from './forum.js'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import musicQuestions from '../../client/src/imported-bank.json' with { type: 'json' }
@@ -15,6 +16,7 @@ const auth = createAuth()
 
 app.use(express.json({ limit: '64kb' }))
 app.use('/api', auth.router)
+app.use('/api/forum', createForum(auth.db, auth.requireUser))
 
 app.get('/api/health', (_req, res) => res.json({ ok: true }))
 app.get('/api/questions', (req, res) => {
